@@ -2,50 +2,27 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Woooow! Look my choices 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, Mariana aqui! Inspirado no Lab da DIO e no mundo das IAs Generativas, fiz uso da uma IA para criar um e-book sobre um guia de instalação de cameras de segurança que foi um tema recente que precisei aprender.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+### Projeto
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto
+Guia Básico para Instalação de Câmeras de Segurança Wi-Fi para Iniciantes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book foi criado para auxiliar pessoas sem conhecimentos técnicos a instalarem câmeras de segurança Wi-Fi em suas residências. O guia aborda desde os materiais necessários até o passo a passo da instalação, incluindo dicas sobre o posicionamento ideal das câmeras e a configuração do sistema. Além disso, oferece orientações sobre como escolher o melhor modelo de câmera de acordo com suas necessidades e como realizar a manutenção adequada para garantir a longevidade e eficácia do sistema de segurança.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado o GPT-4 para geração de texto presente no e-book.
+LibreOffice para formatação do texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A partir de uma experiência recentemente vivida, resolvi criar o guia básico para quem nunca teve que fazer essa atividade, ter uma ideia do que deve ser levado em consideração. Desta forma solicitei ao GPT que auxiliasse na criação do texto e depois fiz as alterações que julguei necessária.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Arquivo do E-book se encontra no repositório.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
